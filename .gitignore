@@ -25,3 +25,7 @@ terraform.rc
 # Ignore backups
 *.backup
 *.bak
+
+# Ignore the Terraform service account key file
+terraform-key.json
+
